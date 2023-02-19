@@ -3,7 +3,7 @@ Q1) Write the symbols for each of the below javascript operators.
 -Assignment operators: (=), (+=), (-=), (*=),(/=), (%=)
 -Comparison operators: (>), (<=), (>=) (==),(===), (!=)
 -Logical operators: (&&), (||)
--Bitwise operators:
+-Bitwise operators: Bitwise AND, Bitwise XOR
 
 Q2) For each javascript operator, write 2 examples.
 <!-- logical operators -->
@@ -15,6 +15,8 @@ let m = 2;
 let n = 3;
 console.log ((m+n) || (m-n));
 <!-- bitwise -->
+(P & Q) = 12
+(P | Q) = 61
 
 <!-- Assignment operator -->
 
